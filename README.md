@@ -5,6 +5,19 @@ English | [中文](README_zh.md)
 This project is a Vue.js(Vue 3) starter template specially designed for Vibe Coding, aiming to provide developers with a simple and ready-to-use setup. You can quickly build and extend your own frontend applications based on this template.
 Whether for learning, experimentation, or production development, AI Elements Vue Starter offers you a solid and flexible foundation.
 
+## Usage
+
+```bash
+# Install dependencies
+npm i
+
+# Run for development
+npm run dev
+
+# Build for production
+npm run build
+```
+
 ## References
 
 - [Vue.js](https://cn.vuejs.org/): An approachable, performant and versatile framework for building web user interfaces.

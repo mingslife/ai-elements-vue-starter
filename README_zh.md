@@ -5,6 +5,19 @@
 本项目是一个为 Vibe Coding 打造的 Vue.js(Vue 3) 基础模板，旨在为开发者提供简单、开箱即用的起步环境。你可以基于此模板快速搭建、扩展自己的前端应用项目。
 无论是学习、实验还是正式项目开发，AI Elements Vue Starter 都为你打下稳固、灵活的基础。
 
+## 用法
+
+```bash
+# 安装依赖
+npm i
+
+# 启动开发环境
+npm run dev
+
+# 生产环境构建
+npm run build
+```
+
 ## 参考资料
 
 - [Vue.js](https://cn.vuejs.org/): 易学易用，性能出色，适用场景丰富的 Web 前端框架。
