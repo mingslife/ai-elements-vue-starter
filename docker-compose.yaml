@@ -1,0 +1,6 @@
+services:
+  app:
+    build: .
+    image: ai-elements-vue-starter
+    ports:
+      - 3000:80
